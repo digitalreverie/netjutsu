@@ -3,23 +3,6 @@
     <channel>
         <title>NetJutsu</title>
         <item>
-            <title>1.0.0-beta.4</title>
-            <link>https://netjutsu.io</link>
-            <pubDate>Fri, 31 Jul 2026 18:34:34 -0700</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.0.0-beta.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <ul>
-                    <li>Test</li>
-                </ul>
-            ]]></description>
-            <enclosure
-                url="https://github.com/digitalreverie/netjutsu/releases/download/1.0.0-beta.4/NetJutsu.zip"
-                type="application/octet-stream"
-                sparkle:edSignature="3CJjTpwiYw1xfd/GvtNviNQLSsZV4DxIWX3KRj8+hYB4fHo4xac2IQ5bGi439/FFOaIBG9s/ohpcg2ix5PzKBA==" length="12167841" />
-        </item>
-        <item>
             <title>1.0.0-beta.3</title>
             <link>https://netjutsu.io</link>
             <pubDate>Fri, 31 Jul 2026 18:22:34 -0700</pubDate>
