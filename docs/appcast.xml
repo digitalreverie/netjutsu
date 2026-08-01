@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>NetJutsu</title>
+        <item>
+            <title>1.0.0-beta.3</title>
+            <link>https://netjutsu.io</link>
+            <pubDate>Fri, 31 Jul 2026 18:22:34 -0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.0-beta.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Added Sparkle for updates</li>
+                    <li>Added traffic filters</li>
+                    <li>Improvements/Fixes to the request/response views</li>
+                    <li>Don't show CONNECT rows for proxied hosts</li>
+                    <li>Added time/duration of each request</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/digitalreverie/netjutsu/releases/download/1.0.0-beta.3/NetJutsu.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="0e8g1yzyzVa2VqCKSaJ+bZs7+q0F0IZ0tQzp0c5Y5N/sACc4YO4vkB43DQDS5cIRUq955CpYevuarQCSIQPXDg==" length="12167825" />
+        </item>
+    </channel>
+</rss>
