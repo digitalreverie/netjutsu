@@ -10,7 +10,6 @@
             <sparkle:shortVersionString>1.0.0-beta.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-<p><strong>Full Changelog</strong>: https://github.com/digitalreverie/netjutsu-mac/commits/1.0.0-beta.4</p>
 <h4>Improvements</h4>
 <ul>
 <li>Nicer UI of the main control bar</li>
