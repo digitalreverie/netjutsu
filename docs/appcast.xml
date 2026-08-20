@@ -3,6 +3,28 @@
     <channel>
         <title>NetJutsu</title>
         <item>
+            <title>1.0.0-beta.4</title>
+            <link>https://netjutsu.io</link>
+            <pubDate>Thu, 20 Aug 2026 01:10:42 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.0-beta.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<p><strong>Full Changelog</strong>: https://github.com/digitalreverie/netjutsu-mac/commits/1.0.0-beta.4</p>
+<h4>Improvements</h4>
+<ul>
+<li>Nicer UI of the main control bar</li>
+<li>Dedicated instructions for Android Phone</li>
+<li>Added support for custom request/response scripts</li>
+<li>Fixed several code highlighter issues</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/digitalreverie/netjutsu/releases/download/1.0.0-beta.4/NetJutsu.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="Z2JykN4wkujeDqrcp24wH6J8kYJ1TPuZj4hM5tyHRUOvok05M5I6WtETaey09lUGGkdNigb339FmGNJOwA+zDg==" length="12381467" />
+        </item>
+        <item>
             <title>1.0.0-beta.3</title>
             <link>https://netjutsu.io</link>
             <pubDate>Fri, 31 Jul 2026 18:22:34 -0700</pubDate>
